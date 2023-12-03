@@ -9,6 +9,7 @@ black = "*"
 openai = "==0.28.1"
 requests = "*"
 types-requests = "*"
+google-search-results = "*"
 
 [dev-packages]
 
