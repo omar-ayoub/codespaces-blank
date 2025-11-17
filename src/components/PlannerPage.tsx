@@ -129,7 +129,7 @@ function PlannerPage() {
         <div className="flex">
           <Link to="/" className="flex flex-1 flex-col items-center justify-end gap-1 text-gray-500 dark:text-gray-400">
             <span className="material-symbols-outlined">sunny</span>
-            <p className="text-xs font-medium">Today</p>
+            <p className="text-xs font-medium">Dashboard</p>
           </Link>
           <Link to="/planner" className="flex flex-1 flex-col items-center justify-end gap-1 text-primary">
             <span className="material-symbols-outlined font-bold">calendar_month</span>
